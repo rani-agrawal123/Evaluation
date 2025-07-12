@@ -33,7 +33,7 @@ public double calculateAverage() {
     	double avg = calculateAverage();
     	if(avg >=90) {
     		return "A";
-;    	}
+    	}
     	else if(avg >= 80) {
     		return "B";
     	}
